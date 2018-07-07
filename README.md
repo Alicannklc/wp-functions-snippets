@@ -3,7 +3,6 @@
 
 
 ## Atom.io wp functions Snippets
-Happy Coding.
 
 | Prefix|description
 |---------|------------------------------------------------------|
