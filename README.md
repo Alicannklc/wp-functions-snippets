@@ -2,7 +2,7 @@
 # Wp Functions Snippets
 
 
-## Atom.io wp functions Snippets
+## Plugin url : https://atom.io/packages/wp-functions-snippets
 
 | Prefix|description
 |---------|------------------------------------------------------|
